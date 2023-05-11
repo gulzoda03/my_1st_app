@@ -1,0 +1,87 @@
+.logotip {
+    height: 160px;
+    width: 500px;
+}
+
+.title {
+    color: green;
+    text-transform: uppercase;
+    font-size: x-large;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.picture {
+    height: 500px;
+    width: 800px;
+    border: 5px;
+    border-color: darkgreen;
+}
+
+.dashed {
+    text-decoration: dashed;
+    border: 2px purple dashed;
+    height: 50px;
+    width: 700px;
+}
+
+.linethrought {
+    text-decoration: line-through;
+}
+
+.solid {
+    text-decoration: solid;
+    border: 2px purple solid;
+    height: 50px;
+    width: 700px;
+}
+
+.overline {
+    text-decoration: overline;
+}
+
+.dotted {
+    text-decoration: dotted;
+    border: 2px purple dotted;
+    height: 50px;
+    width: 700px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.heritage {
+    text-decoration: double;
+    border: 2px purple double ;
+    height: 50px;
+    width: 700px;
+}
+
+.groove {
+    text-decoration: none;
+    border: 2px purple groove;
+    height: 50px;
+    width: 700px;
+}
+
+.inset {
+    text-decoration: overline;
+    border: 2px purple inset;
+    height: 50px;
+    width: 700px;
+}
+
+.outset {
+    text-decoration: underline;
+    border: 2px purple outset;
+    height: 50px;
+    width: 700px;
+}
+
+.ridge {
+    text-decoration: wavy;
+    border: 2px purple ridge;
+    height: 50px;
+    width: 700px;
+}
